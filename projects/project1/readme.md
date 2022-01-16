@@ -23,7 +23,7 @@ The main goal of this project is to choose a dataset to explore using the CRISP-
 
 ## 4) Results <a class="anchor" id="results"></a>
 
-The detailed discussion of the data analysis can be found in [this blog post].
+The detailed discussion of the data analysis can be found in [this blog post](https://medium.com/@jekasores/data-driven-decisions-for-airbnb-hosts-and-clients-is-it-possible-1ce2262494c).
 
 ## 5) Licesing, Authors, Acknowledgements <a class="anchor" id="licesing"></a>
 
