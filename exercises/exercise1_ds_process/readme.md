@@ -11,7 +11,7 @@ This project was developed in Python 3 using Jupyter Notebook 6.1.6 and Python l
 
 ## 2) Project Motivation <a class="anchor" id="motivation"></a>
 
-The main goal of this project is to document the exercises made during the chapter 3 "Introduction to Data Science" from the Data Science Nanodegree Udacity with focus on "Class 1 - The Data Science Process". The main topics taught in this lesson are:
+The main goal of this project is to document the exercises made during the **chapter 3 "Introduction to Data Science"** from the Data Science Nanodegree Udacity with focus on **Class 1 - The Data Science Process**. The main topics taught in this lesson are:
 * CRISP-DM process
 * Business and Data Understanding
 * Gathering & wrangling data
