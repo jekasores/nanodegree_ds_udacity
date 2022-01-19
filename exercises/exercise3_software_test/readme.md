@@ -18,7 +18,7 @@ Then, to run pytest, just enter:
 ```
 pytest
 ```
-Right now, not all of the tests should pass. Fix the function to pass all its tests! Once all your tests pass, try writing some additional unit tests of your own!
+**Exercise instructions:** Right now, not all of the tests should pass. Fix the function to pass all its tests! Once all your tests pass, try writing some additional unit tests of your own!
 
 ## 2) Project Motivation <a class="anchor" id="motivation"></a>
 
@@ -27,7 +27,7 @@ The main goal of this project is to document the exercises from the Data Science
 * Logging
 * Code review
 
-This exercise consisting in using the **pytest** tool and the function **assert()** to create a **test_ file** in order to build some test case to verify the correctness of a function.
+This exercise consists in using the **pytest** tool and the function **assert()** to create a **test_ file** in order to build some test cases to verify the correctness of a function.
 
 ## 3) File Descriptions <a class="anchor" id="file"></a>
 
@@ -37,7 +37,7 @@ This exercise consisting in using the **pytest** tool and the function **assert(
 
 ## 4) Results <a class="anchor" id="results"></a>
 
-*  By installing the tool pytest and running it in the terminal, we can run test_ files that contains some test cases to verify if a piece of code is working properly;
+*  By installing the tool pytest and running it in the terminal, we can run test_computer_launch.py file that contains some test cases to verify if a piece of code is working properly;
 * Using the compute_launch.py we can run the *#Original code without correction* section and observe that the pytest will return an error message for test_days_until_launch_0_negative() case;
 * We can also comment the *#Original code without correction* section and uncomment the *#Corrected/fixed solution - uncomment to check the difference in pytest* section. This will fix the test_days_until_launch_0_negative().
 
